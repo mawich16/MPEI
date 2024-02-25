@@ -1,0 +1,8 @@
+% H matriz de hyperlinks
+% r pagerank
+% r(k+1)=H*r(k)
+% dead ends -> sem saida
+% solução -> meter 1/nº de pags nos elementos da coluna vazia
+% spyder trap -> preso num loop
+% solução -> nada eventualmente sai de lá
+
